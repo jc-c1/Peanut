@@ -1,6 +1,9 @@
 <h1>Peanut</h1>
 <p><em>Capturing all the beautiful moments</em></p>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Y6AsM4lNqZMc)
+
+
 <p><strong>Peanut</strong> is a journaling app that celebrates and documents baby milestones with parents
 and help them capture all the memories of their little one's growth. The app caters to parents (Can including fur parents 
 but some of the functionalities may not pertain). This project is dear for me because my mother also had giant 
