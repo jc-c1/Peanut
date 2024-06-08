@@ -1,0 +1,43 @@
+{"parentList": [
+    {
+        "ln": "Nut",
+        "pnOfPr": [{
+            "ln": "Nut",
+            "fn": "Pea",
+            "j": {"index": [{
+                "image": "",
+                "title": "to be updated",
+                "type": "memory",
+                "content": "stuff more stuff more more stuff"
+            }]}
+        }],
+        "fn": "Wallace"
+    },
+    {
+        "ln": "Nut",
+        "pnOfPr": [{
+            "ln": "Nut",
+            "fn": "Wee",
+            "j": {"index": [
+                {
+                    "image": "capy2.png",
+                    "title": "Weenut's first step!!",
+                    "type": "memory",
+                    "content": "Weenut made her first step!! :D yay!"
+                },
+                {
+                    "image": "",
+                    "title": "Weenut smiled!",
+                    "type": "memory",
+                    "content": "SHE SMILED!!! OMG SO ADORABLE!!!"
+                }
+            ]}
+        }],
+        "fn": "Coco"
+    },
+    {
+        "ln": "then they'll be saved and loaded",
+        "pnOfPr": [],
+        "fn": "but if i save them, "
+    }
+]}

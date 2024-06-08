@@ -1,0 +1,53 @@
+All code must be appropriately documented:
+
+- Each class should have a class-level comment (that appears just before the class declaration)
+to describe the information that the class represents
+- Every method must be documented with requires, modifies and effects clauses, as appropriate
+(note that simple setter and getter methods, and test methods, do not have to be documented)
+
+Your code must adhere to our style guidelines.
+Maximum method length has been increased from 20 to 25 lines.
+    Some cases does not make sense to decompose a method < 25 lines.
+    - Use @SuppressWarnings("methodlength") annotation the line immediately preceding  method header.
+    - You should always check with your TA before using
+
+Note: full marks for code coverage can be achieved only if there is at least
+ - one branch (i.e. if/else) or loop in the code included in the model package.
+
+Task 1
+Start by doing a domain analysis for your application.
+What information is changing and what is constant?
+
+Identify the different types of data that you will need to represent the information in your domain.
+
+To-do application:
+ - Task class to represent a single task
+ - ToDoList class to represent the tasks that have been added to the to-do list.
+
+Consider the methods that each of these classes must have to provide the functionality described user stories.
+    Add a task to to-do list - ToDoList class need an addTask method.
+
+Classes identified at this stage must be added to model package
+    -> with the corresponding tests in the test folder.
+
+IMPORTANT
+    - No System.out.println statements in the code that models your domain (code that is in the model package)
+    - No code that reads user input from the keyboard.
+They present/gather information to/from the user, therefore part of the user interface
+
+
+
+
+Task 2
+The next step is to add the user interface.  At this stage you must design a console application.
+Do not attempt to design a graphical user interface.
+All the code for your user interface must go in the ui package.
+As user interface code is more difficult to test, in general, note that you are not required to
+design tests for your ui code on this term project. However, you must ensure that all
+your methods are appropriately documented.
+
+When your application is run, a user must be able to perform each of the actions
+specified in your user stories.  In other words, you are expected to have a working
+console-based application by the end of Phase 1.
+
+When you are done, commit and push your code to GitHub.

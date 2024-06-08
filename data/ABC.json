@@ -1,0 +1,16 @@
+{"parentList": [
+    {
+        "ln": "DEF",
+        "pnOfPr": [{
+            "ln": "GHI",
+            "fn": "DEF",
+            "j": {"index": []}
+        }],
+        "fn": "ABC"
+    },
+    {
+        "ln": "HIJ",
+        "pnOfPr": [],
+        "fn": "DEF"
+    }
+]}
