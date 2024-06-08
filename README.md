@@ -1,7 +1,7 @@
 <h1>Peanut</h1>
 <p><em>Capturing all the beautiful moments</em></p>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Y6AsM4lNqZMc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=6AsM4lNqZMc)
 
 
 <p><strong>Peanut</strong> is a journaling app that celebrates and documents baby milestones with parents
